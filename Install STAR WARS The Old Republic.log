@@ -1,0 +1,32 @@
+[Friday Jan 09 20:18:43 2015] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Friday Jan 09 20:18:43 2015]          STAR WARS: The Old Republic v1.00.0.2 installer ran
+[Friday Jan 09 20:18:43 2015] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Friday Jan 09 20:18:43 2015] CallParameters=[/src="C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR"]
+[Friday Jan 09 20:18:43 2015] all mutex checks cleared
+[Friday Jan 09 20:18:43 2015] GetOptions [/src="C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR"] "/src=" = [C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR]
+[Friday Jan 09 20:18:43 2015] SourceDirectory set to [C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR]
+[Friday Jan 09 20:18:43 2015] Using TEMP directory C:\Users\CHRIST~1\AppData\Local\Temp\InstallSWTOR
+[Friday Jan 09 20:18:43 2015] Source directory=C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR
+[Friday Jan 09 20:18:44 2015] Command-line language=
+[Friday Jan 09 20:18:44 2015] System Default Language ID=1053
+[Friday Jan 09 20:18:44 2015] Language [1053] is not supported in this installer - setting English
+[Friday Jan 09 20:18:44 2015] Supported OS Language=en
+[Friday Jan 09 20:18:44 2015] ProgramLocation from registry [SOFTWARE\BioWare\Star Wars-The Old Republic] [Install Dir]=[J:\Star Wars-The Old Republic]
+[Friday Jan 09 20:18:44 2015] +SetStartMenuLocationFromFullPath start
+[Friday Jan 09 20:18:44 2015]  SMPROGRAMS=C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+[Friday Jan 09 20:18:44 2015]  R1=53
+[Friday Jan 09 20:18:44 2015]  R2=EA\BioWare\Star Wars - The Old Republic
+[Friday Jan 09 20:18:44 2015]  StartMenuLocationFullPath=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic
+[Friday Jan 09 20:18:44 2015]  setting StartMenuLocation=EA\BioWare\Star Wars - The Old Republic
+[Friday Jan 09 20:18:44 2015] -SetStartMenuLocationFromFullPath end
+[Friday Jan 09 20:18:44 2015] Program Location from registry=J:\Star Wars-The Old Republic
+[Friday Jan 09 20:18:44 2015] Language string code from registry=en
+[Friday Jan 09 20:18:44 2015] Start Menu path from registry=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\EA\BioWare\Star Wars - The Old Republic
+[Friday Jan 09 20:18:44 2015] If Empty(en) then Peeking into C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR\data\installmanifest_ru.ini
+[Friday Jan 09 20:18:44 2015] Using install manifest: C:\Users\Christopher\AppData\Local\Temp\InstallSWTOR\data\installmanifest_en.ini
+[Friday Jan 09 20:18:44 2015] User admin status: Admin
+[Saturday Jan 10 0:18:28 2015] User declined reinstall.
+[Saturday Jan 10 0:18:28 2015] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Saturday Jan 10 0:18:28 2015]             STAR WARS: The Old Republic quit
+[Saturday Jan 10 0:18:28 2015] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
