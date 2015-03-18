@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="projekttest.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Styles/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+
+    
+    <form id="form1" runat="server">
+       
+    
+    <div id="container">
+        <div id="header">
+           
+            </div>
+        <div id="navigation">
+            
+            <ul>
+                <li><a href="Shop.aspx">Shop</a></li>
+                <li><a href="About.aspx">About</a></li>
+                <li><a href="Contact.aspx">Contact us</a>
+                     <li><a href="cart.aspx">Shopping cart</a>
+                </li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Label ID="Label1" runat="server" Text="Logged in as:
+                    "></asp:Label>
+                <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
+            </ul>
+                
+            
+        </div>
+        <div id="content">
+          
+            <p>
+               
+            </p>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        </div>
+        <div id ="footer">
+            Copyright 
+        </div>
+
+    </div>
+
+    <div>
+        
+        
+    </div>
+    </form>
+</body>
+</html>

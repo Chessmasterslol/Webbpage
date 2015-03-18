@@ -1,0 +1,77 @@
+﻿body {
+    background-image: url(tweed_@2X.png);
+    background-attachment: fixed;
+   
+}
+
+#container {
+    margin: 0 auto;
+    width: 1000px;
+    
+    
+}
+
+#header {
+    background-image: url(http://eibach.com/sites/dedevperformance-suspension.eibach.com/files/pictures/project_cars/eibach_audi_s5_project_car_header.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 150px;
+    background-size: cover;
+    border-top: white 5px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    width: 1000px;
+    margin: auto;
+    
+}
+
+#header h1 { margin: 0; }
+
+#navigation {
+    float: left;
+    width: 1000px;
+    background: #000;
+    margin-left: 0px;
+}
+
+#navigation ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+#navigation ul li {
+    list-style-type: none;
+    display: inline;
+
+}
+
+#navigation li a {
+    display: block;
+    float: left;
+    padding: 5px 10px;
+    color: #fff;
+    text-decoration: none;
+    border-right: 3px solid #fff;
+    font-family: Tahoma;
+    font-size: 16px;
+    width: 101px;
+    margin-left: 0px;
+}
+
+#navigation li a:hover { background: #d2691e;  }
+
+#content {
+    clear: left;
+    padding: 20px;
+    background-color: white;
+}
+
+#footer {
+    background: #ccc;
+    text-align: right;
+    padding: 20px;
+    height: 100px;
+}
+
+
