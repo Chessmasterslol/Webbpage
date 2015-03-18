@@ -63,6 +63,7 @@
     <Content Include="Account folder\Register.aspx" />
     <Content Include="Cart.aspx" />
     <Content Include="Contact.aspx" />
+    <Content Include="Global.asax" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -72,7 +73,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Global.asax" />
     <Content Include="Styles\Login_Register_syle.css" />
     <Content Include="Styles\StyleSheet1.css" />
     <Content Include="Web.config" />
