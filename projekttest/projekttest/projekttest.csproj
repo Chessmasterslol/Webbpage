@@ -64,6 +64,9 @@
     <Content Include="Cart.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="images\ferrari.gif" />
+    <Content Include="images\lambo.JPG" />
+    <Content Include="images\volvo.jpg" />
     <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -142,7 +145,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
