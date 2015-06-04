@@ -1,0 +1,5 @@
+F:\Dokument\GitHub\Webbpage\projekttest\ShopDAL\bin\Debug\ShopDAL.dll
+F:\Dokument\GitHub\Webbpage\projekttest\ShopDAL\bin\Debug\ShopDAL.pdb
+F:\Dokument\GitHub\Webbpage\projekttest\ShopDAL\obj\Debug\ShopDAL.csprojResolveAssemblyReference.cache
+F:\Dokument\GitHub\Webbpage\projekttest\ShopDAL\obj\Debug\ShopDAL.dll
+F:\Dokument\GitHub\Webbpage\projekttest\ShopDAL\obj\Debug\ShopDAL.pdb

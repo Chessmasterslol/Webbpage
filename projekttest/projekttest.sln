@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projekttest", "projekttest\projekttest.csproj", "{DD7FE99B-F783-4B58-B1B1-783FCC79568A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopDAL", "ShopDAL\ShopDAL.csproj", "{EE2CAB45-6D1D-4F9C-AC9C-E6FBBF87A4D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DD7FE99B-F783-4B58-B1B1-783FCC79568A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD7FE99B-F783-4B58-B1B1-783FCC79568A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD7FE99B-F783-4B58-B1B1-783FCC79568A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2CAB45-6D1D-4F9C-AC9C-E6FBBF87A4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2CAB45-6D1D-4F9C-AC9C-E6FBBF87A4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2CAB45-6D1D-4F9C-AC9C-E6FBBF87A4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2CAB45-6D1D-4F9C-AC9C-E6FBBF87A4D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
